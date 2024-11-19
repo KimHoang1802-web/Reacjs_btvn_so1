@@ -8,7 +8,10 @@ export default {
     extend: {
       container: {
         center: true,
-      }
+      },
+      backgroundImage: {
+        'Image': "url('./image/background.jpg')"
+      },
     },
   },
   plugins: [],
