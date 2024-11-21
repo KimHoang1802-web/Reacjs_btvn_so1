@@ -7,6 +7,7 @@ import ChangeToGlasses from './BaiTap2/ChangeToGlasses'
 import Body from './BaiTap1/Body'
 import Body2 from './BaiTap2/Body2'
 import Header2 from './BaiTap2/Header2'
+import ShoeShop from './BaiTap_ShoeShop/ShoeShop'
 
 function App() {
   
@@ -19,6 +20,7 @@ function App() {
       <Header2/>
       <Body2/>
       <ChangeToGlasses/>
+      <ShoeShop/>
     </>
   )
 }
