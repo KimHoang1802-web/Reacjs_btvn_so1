@@ -8,6 +8,7 @@ import Body from './BaiTap1/Body'
 import Body2 from './BaiTap2/Body2'
 import Header2 from './BaiTap2/Header2'
 import ShoeShop from './BaiTap_ShoeShop/ShoeShop'
+import LiftingStateUp from './LiftingStateUp/LiftingStateUp'
 
 function App() {
   
@@ -21,6 +22,7 @@ function App() {
       <Body2/>
       <ChangeToGlasses/>
       <ShoeShop/>
+      <LiftingStateUp/>
     </>
   )
 }
